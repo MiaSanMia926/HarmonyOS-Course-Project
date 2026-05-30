@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/LoginPage",
+    "pages/RegisterPage",
+    "pages/Index",
+    "pages/AddPlantPage",
+    "pages/PlantDetailPage",
+    "pages/LogWritePage",
+    "pages/AIAnalysisPage"
+  ]
+}

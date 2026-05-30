@@ -1,0 +1,23 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "AI 植物成长日记" },
+    { "name": "EntryAbility_desc", "value": "AI 植物成长日记" },
+    { "name": "EntryAbility_label", "value": "植物日记" },
+    {
+      "name": "reason_camera",
+      "value": "用于拍摄植物日记照片"
+    },
+    {
+      "name": "reason_read_media",
+      "value": "用于从相册中选择植物照片"
+    },
+    {
+      "name": "reason_write_media",
+      "value": "用于将拍摄的植物照片保存到相册"
+    },
+    {
+      "name": "reason_media_location",
+      "value": "用于获取并在日记中记录照片的拍摄位置"
+    }
+  ]
+}
