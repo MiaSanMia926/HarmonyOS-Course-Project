@@ -1,0 +1,36 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+# Logs
+*.log
+# Local migration metadata (not part of the project)
+.original-manifest.json
+.migration-manifest.json
+
+# HarmonyOS build and signing outputs
+oh_modules/
+.hvigor/
+.preview/
+build/
+local.properties
+*.hap
+*.hsp
+*.p12
+*.p7b
+*.cer
+# Local account notes
+password.txt
